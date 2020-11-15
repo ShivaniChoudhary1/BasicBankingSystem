@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "id15325867_shivani";
+$username = "shivani";
 $password = "";
 $dbname = "bankingsystem";
 
